@@ -23,4 +23,4 @@ file system.
 Please fork this repository and then issue Pull Requets for review
 
 ### Copyright
-2018 Git-Training
+2018 Git-Training.  All rights reserved.
